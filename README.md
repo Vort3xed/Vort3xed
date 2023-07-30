@@ -2,7 +2,7 @@
 
 ### About Me:
 - PHS 25
-- Cyber Security Enthusaist
+- Cyber Security Enthusiast
 - Front and Backend Developer (Full Stack)
 - Code Commenting Connoisseur
 
