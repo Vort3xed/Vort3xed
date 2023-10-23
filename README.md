@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **networking (CCNA)**
 
-- 👨‍💻 All of my projects are available at [https://vort3xed.github.io/ProjectPortfolio/](https://vort3xed.github.io/ProjectPortfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-v2-vort3xed.vercel.app](https://portfolio-v2-vort3xed.vercel.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
