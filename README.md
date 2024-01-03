@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vort3xed&show_icons=true&theme=dark&locale=en&layout=compact" alt="vort3xed" /></p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vort3xed&rank_icon=github) -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vort3xed&show_icons=true&theme=dark&locale=en&rank_icon=github" alt="vort3xed" /></p>
+
+[![wakatime](https://wakatime.com/badge/user/48f55ced-8c76-48d3-acb2-c0bf00194ded.svg)](https://wakatime.com/@48f55ced-8c76-48d3-acb2-c0bf00194ded)
