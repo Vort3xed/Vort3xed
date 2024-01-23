@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **websites**
 
-- 🌱 I’m currently learning **networking (CCNA)**
+- 🌱 I’m currently learning **networking (CCNA)** and **machine learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v2-vort3xed.vercel.app](https://portfolio-v2-vort3xed.vercel.app)
 
