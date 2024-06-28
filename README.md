@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **networking (CCNA)** and **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v2-vort3xed.vercel.app](https://portfolio-v2-vort3xed.vercel.app)
+- 👨‍💻 All of my projects are available at [www.agneya.me](www.agneya.me)
 
 
 <h3 align="left">Languages and Tools:</h3>
