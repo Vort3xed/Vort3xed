@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agneya</h1>
-<h3 align="center">Full-stack Developer, Cyber Security & Machine Learning Enthusiast, Aspiring Network Engineer</h3>
+<h3 align="center">Full-stack Developer, Cyber Security & Machine Learning Enthusiast, Freelancer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vort3xed&theme=onedark&rank=SECRET,AA,A&margin-w=15" alt="vort3xed" /></a> </p>
 
-- 🎓 Currently a junior in **highschool**
+- 🎓 Currently a senior in **highschool**
 
-- 🔭 I’m currently working on **websites**
+- 🔭 I’m currently working on **websites** and **machine learning models.**
 
-- 🌱 I’m currently learning **networking (CCNA)** and **machine learning**
+- 🌱 I’m currently learning **machine learning** and **malware analysis.**
 
 - 👨‍💻 All of my projects are available at [https://www.agneya.me/](https://www.agneya.me/)
 
