@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vort3xed&theme=onedark&rank=SECRET,AA,A&margin-w=15" alt="vort3xed" /></a> </p>
 
-- 🎓 Currently a senior in **highschool**
+- 🎓 Incoming CMU SCS student
 
 - 🔭 I’m currently working on **websites** and **machine learning models.**
 
@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://www.agneya.me/](https://www.agneya.me/)
 
 * 🌳 My current (and big) projects:
-  * https://thryving.app
+  *  https://thryving.app
   *  https://schoolnest.org
  
 - [Recursion!](https://github.com/Vort3xed/)
