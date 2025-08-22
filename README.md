@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vort3xed&theme=onedark&rank=SECRET,AA,A&margin-w=15" alt="vort3xed" /></a> </p>
 
-- 🎓 Incoming CMU SCS student
+- 🎓 CMU SCS student
 
 - 🔭 I’m currently working on **websites** and **machine learning models.**
 
