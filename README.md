@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agneya</h1>
+<h1 align="center">Hi I'm Agneya 😁</h1>
 <h3 align="center">Full-stack, Cyber Security, Machine Learning, Freelance</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vort3xed&theme=onedark&rank=SECRET,AA,A&margin-w=15" alt="vort3xed" /></a> </p>
