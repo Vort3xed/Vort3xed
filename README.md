@@ -13,9 +13,8 @@
 
 * 🌳 My current (and big) projects:
   *  https://thryving.app
-  *  https://schoolnest.org
-  *  https://fumble.chat
   *  https://www.thispagedoesnotexist.com/
+  *  https://gymote-server.fly.dev/
  
 - [Recursion!](https://github.com/Vort3xed/)
 
