@@ -11,12 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [https://www.agneya.me/](https://www.agneya.me/)
 
-* 🌳 My current (and big) projects:
+- ‼️ I make tech videos! [https://www.instagram.com/agneya.th/](https://www.instagram.com/agneya.th/)
+
+* 🌳 Some notable projects:
   *  https://thryving.app
   *  https://www.thispagedoesnotexist.com/
   *  https://gymote-server.fly.dev/
  
-- [Recursion!](https://github.com/Vort3xed/)
+- <a href="https://github.com/Vort3xed/" target="_blank">Recursion!</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
