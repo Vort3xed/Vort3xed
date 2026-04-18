@@ -8,9 +8,9 @@
 </p>
 
 - 🎓 CMU SCS student
-- 🔭 I’m currently working on **websites** and **machine learning models.**
-- 🌱 I’m currently learning **machine learning** and **malware analysis.**
-- 👨‍💻 All of my projects are available at [https://www.agneya.me/](https://www.agneya.me/)
+- 🔭 I’m currently working on **machine learning models for vision**
+- 🌱 I’m currently learning **machine learning** and **computer systems**
+- 👨‍💻 Most of my projects are available at [https://www.agneya.me/](https://www.agneya.me/)
 - ‼️ I make tech videos! [https://www.instagram.com/agneya.th/](https://www.instagram.com/agneya.th/)
 - 🌳 Some notable projects:
   - https://thryving.app
