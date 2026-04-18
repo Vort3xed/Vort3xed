@@ -20,7 +20,17 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,css,figma,flask,git,heroku,html,java,js,linux,nextjs,nodejs,postgres,postman,python,pytorch,react,sklearn,tailwind,tensorflow,ts&perline=12)](https://skillicons.dev)
+**Languages**  
+[![](https://skillicons.dev/icons?i=py,ts,js,java,c,html,css,bash,md,latex,powershell,regex,wasm)](https://skillicons.dev)
+
+**Web Dev**  
+[![](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,vue,svelte,bootstrap,threejs,electron,nodejs,express,fastapi,flask,django,prisma,postgres,mongodb,redis,supabase,firebase&perline=10)](https://skillicons.dev)
+
+**Cloud & Systems**  
+[![](https://skillicons.dev/icons?i=docker,aws,gcp,azure,nginx,vercel,netlify,heroku,replit,linux,kali,ubuntu,raspberrypi,arduino)](https://skillicons.dev)
+
+**ML & Tools**  
+[![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,git,vscode,vim,idea,clion,npm,yarn,maven,postman,figma)](https://skillicons.dev)
 
 ### GitHub Stats
 
