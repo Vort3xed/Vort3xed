@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Agneya 😁</h1>
-<h3 align="center">Full-stack, Cyber Security, Machine Learning, Freelance</h3>
+<h3 align="center">Full-stack, Cyber Security, Machine Learning, Robotics</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
