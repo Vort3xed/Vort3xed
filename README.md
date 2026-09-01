@@ -8,11 +8,10 @@
 </p>
 
 - 🎓 CMU SCS student
-- 👨‍💻 Currently an SDE intern at Amazon
-- 🔭 I’m currently working on **machine learning models for vision**
+- 👨‍💻 Previously an SDE intern at Amazon
+- 🔭 I’m currently working on **machine learning models for vision** and **RL training for humanoid robots**
 - 🌱 I’m currently learning **machine learning** and **computer systems**
 - 👨‍💻 Most of my projects are available at [https://www.agneya.me/](https://www.agneya.me/)
-- ‼️ I make tech videos! [https://www.instagram.com/agneya.th/](https://www.instagram.com/agneya.th/)
 - 🌳 Some cool projects:
   - https://thryving.app
   - https://www.thispagedoesnotexist.com/
